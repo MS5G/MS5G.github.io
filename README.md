@@ -1,2 +1,2 @@
-# marshmallow.run.website.github.io
+# easygamestlt.github.io
 Website for my game studio
